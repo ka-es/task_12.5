@@ -42,6 +42,7 @@ button:hover {
 a {
 	text-decoration: none;
 	color: #585766;
+	display: block;
 }
 
 .box {
