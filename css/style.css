@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina');
+
+body {
+	font-family: 'Baloo Bhaina', cursive;
+	background-color: #F6E9DA;
+}
+
+main {
+	text-align: center;
+}
+
+header h1 {
+	font-size: 60px;
+	margin-top: 60px;
+	margin-bottom: 40px;
+	color: #585766;
+}
+
+h3 {
+	text-align: right;
+}
+
+button {
+	width: 300px;
+	height: 80px;
+	border-radius: 20px;
+	font-size: 30px;
+	font-family: 'Baloo Bhaina', cursive;
+	color: #585766;
+	background-color: #F6E9DA;
+	border-width: 6px;
+	border-color: #585766;
+	border-style: solid;
+	margin: 50px 20px;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+a {
+	text-decoration: none;
+	color: #585766;
+	display: block;
+}
+
+.box {
+	width: 1200px;
+	margin: 0 auto;
+	background-color: #585766;
+	min-height: 200px;
+	border-radius: 20px;
+}
+.quote {
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+	padding: 50px;
+	color: #F6E9DA;
+	margin: 0;
+}
+
+.author {
+	padding: 20px 50px;
+	color: #F6E9DA;
+	font-weight: 200;
+	font-size: 30px;
+	margin: 0;
+}
+
